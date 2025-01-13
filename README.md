@@ -1,4 +1,4 @@
-## Hi there, I'm [tylim!](https://wchanee.github.io) 👋
+## Hi there, I'm [wchanee!](https://github.com/wchanee) 👋
 
 <!--
 **wchanee/wchanee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
